@@ -2,7 +2,7 @@
 <div>
 <img width="337" src="./img/top_profile.png" align="right" />
 <br/>
-<img src="./img/top_about.png" width="488" />
+<img src="./img/top_about.png" width="460" />
 <br/>
 <br/>
 <br/>
